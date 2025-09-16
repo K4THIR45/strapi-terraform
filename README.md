@@ -1,13 +1,13 @@
 # Strapi CMS Deployment with Terraform on AWS
-🗂 Files in this Repo
+# Files in this Repo
 •	provider.tf → AWS provider config
 •	main.tf → EC2 instance + security group + Docker setup
 •	variables.tf → Input variables
 •	outputs.tf → Public IP output
 •	README.md → Documentation
 
-#This project uses *Terraform* to deploy the official *Strapi Headless CMS* on an AWS EC2 instance.  
-#The EC2 instance runs Docker and pulls the Strapi image.
+# This project uses *Terraform* to deploy the official *Strapi Headless CMS* on an AWS EC2 instance.  
+# The EC2 instance runs Docker and pulls the Strapi image.
 
 ---
 
