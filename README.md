@@ -1,4 +1,4 @@
-# Here is Explanation Vedio Link (https://github.com/K4THIR45/strapi-terraform/releases/download/strapi/Demo.Vedio.mp4)
+Here is Explanation Vedio Link (https://github.com/K4THIR45/strapi-terraform/releases/download/strapi/Demo.Vedio.mp4)
 
 # Strapi CMS Deployment with Terraform on AWS.
 # Files in this Repo
