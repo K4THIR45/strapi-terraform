@@ -6,8 +6,8 @@
 •	outputs.tf → Public IP output
 •	README.md → Documentation
 
-# This project uses *Terraform* to deploy the official *Strapi Headless CMS* on an AWS EC2 instance.  
-# The EC2 instance runs Docker and pulls the Strapi image.
+This project uses *Terraform* to deploy the official *Strapi Headless CMS* on an AWS EC2 instance.  
+The EC2 instance runs Docker and pulls the Strapi image.
 
 ---
 
