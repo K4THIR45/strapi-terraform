@@ -1,4 +1,4 @@
-# Strapi CMS Deployment with Terraform on AWS
+# Strapi CMS Deployment with Terraform on AWS.
 # Files in this Repo
 •	provider.tf → AWS provider config
 •	main.tf → EC2 instance + security group + Docker setup
